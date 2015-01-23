@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "59EA8BB31A71EF7000F6F4E0"
-               BuildableName = "instagram.app"
-               BlueprintName = "instagram"
-               ReferencedContainer = "container:instagrame.xcodeproj">
+               BlueprintIdentifier = "D9F0D1BA4F0866FFCAAC1CD7"
+               BuildableName = "libPods-AFNetworking.a"
+               BlueprintName = "Pods-AFNetworking"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,26 +28,7 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "59EA8BD41A71EF7000F6F4E0"
-               BuildableName = "instagramTests.xctest"
-               BlueprintName = "instagramTests"
-               ReferencedContainer = "container:instagrame.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "59EA8BB31A71EF7000F6F4E0"
-            BuildableName = "instagram.app"
-            BlueprintName = "instagram"
-            ReferencedContainer = "container:instagrame.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -58,15 +39,6 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "59EA8BB31A71EF7000F6F4E0"
-            BuildableName = "instagram.app"
-            BlueprintName = "instagram"
-            ReferencedContainer = "container:instagrame.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -76,15 +48,6 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "59EA8BB31A71EF7000F6F4E0"
-            BuildableName = "instagram.app"
-            BlueprintName = "instagram"
-            ReferencedContainer = "container:instagrame.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
